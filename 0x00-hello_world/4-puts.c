@@ -1,8 +1,8 @@
 #include <stdio.h>
 /*
-*main - entry point
-*puts - function
-*return:  always 0
+* main - entry point of the program
+* puts - function that prints a string
+* Return: always 0
 */
 int main(void)
 {
