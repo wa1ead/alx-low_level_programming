@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
 * main - entry point
-* putchar - function
+* while - loop
 * Return: always 0
 */
 int main(void)
