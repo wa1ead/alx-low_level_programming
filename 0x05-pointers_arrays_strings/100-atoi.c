@@ -39,12 +39,12 @@ int _atoi(char *s)
 			break;
 		}
 		}
-		a++
+		a++;
 	}
 	if (b == 0)
 	{
 		return (0);
 	}
 
-	return (n);
+	return (d);
 }
