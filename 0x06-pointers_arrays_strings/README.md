@@ -1,2 +1,2 @@
 # alx_low_level_programming
-C Language
+0x06. pointers, arrays, strings
