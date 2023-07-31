@@ -1,2 +1,2 @@
-# alx_low_level_programming
+# alx-low_level_programming
 0x04. more functions, nested loops
