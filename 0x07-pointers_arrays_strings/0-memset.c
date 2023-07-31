@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * _memset : fill memory with value
+ * _memset - fill memory with value
  * @s: adress of memory
  * @b: value
  * @n: number
@@ -15,5 +15,5 @@ char *_memset(char *s, char b, unsigned int n)
 		s[x] = b;
 		n--;
 	}
-	return (s)
+	return (s);
 }
