@@ -17,6 +17,7 @@ int _sqrt_recursion(int n)
  * actual_sqrt_recursion - recurses to find natural square
  * @n: number
  * @i: iterator
+ * Return: always 0
  */
 int actual_sqrt_recursion(int n, int i)
 {
