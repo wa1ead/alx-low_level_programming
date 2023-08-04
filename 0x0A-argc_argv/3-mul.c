@@ -18,6 +18,7 @@ int _atoi(char *s)
 
 	while (s[len] != '\0')
 		len++;
+	
 	while (x < len && n == 0)
 	{
 		if (s[x] == '-')
@@ -31,9 +32,9 @@ int _atoi(char *s)
 			n = 1;
 			if (s[x + 1] < '0' || s[x + 1] > '9')
 				break;
-			n = 0
+			n = 0;
 		}
-		x++
+		x++;
 	}
 
 	if (n == 0)
