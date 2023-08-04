@@ -39,7 +39,7 @@ int _atoi(char *s)
 	if (n == 0)
 		return (0);
 
-	return (z)
+	return (z);
 }
 
 /**
